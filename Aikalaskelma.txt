@@ -1,0 +1,14 @@
+Kulunut aika
+	Suunnittelu (1.1)
+		n. 2 tuntia
+		
+	Luokkakaavion toteutus (1.2)
+		n. 1.5 tuntia
+		
+	Varausmoottorin toteutus (1.3)
+		n. 1.5 tuntia
+		
+	Rautalankamalli käyttöliittymästä (1.4)
+		n. 2 tuntia
+		
+Yhteensä n. 7 tuntia 
